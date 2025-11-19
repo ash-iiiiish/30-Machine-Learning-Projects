@@ -6,7 +6,7 @@
 3. Student Score Prediction
 4. Salary Prediction
 5. Bike Rental Demand Prediction
-6. CO■ Emission Prediction
+6. CO2 Emission Prediction
 7. Medical Insurance Cost Prediction
 8. Electricity Consumption Prediction
 9. Gold Price Prediction
