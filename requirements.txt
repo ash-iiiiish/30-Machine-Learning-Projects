@@ -1,0 +1,13 @@
+numpy
+pandas 
+scikit-learn
+matplotlib
+seaborn
+jupyter
+xgboost
+opencv-python
+nltk
+requests
+flask
+fastapi
+torch
