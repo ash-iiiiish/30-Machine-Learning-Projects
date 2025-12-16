@@ -1,7 +1,5 @@
 {
-    "git.path": "C:\\Program Files\\Git\\cmd\\git.exe"
-}
-{
+    "git.path": "C:\\Program Files\\Git\\cmd\\git.exe",
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda",
     "python-envs.pythonProjects": []
