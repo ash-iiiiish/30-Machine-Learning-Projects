@@ -14,8 +14,6 @@ These are the List of 50 Machine Learning Projects topics along with the name of
 10. Sales Forecasting
 
 
-  
-
 # B. Classification Projects (11–22)
 11. Iris Flower Classification
 12. Titanic Survival Prediction
