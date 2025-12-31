@@ -1,4 +1,4 @@
-# 28-Machine-Learning-Projects:-
+# 28-Machine-Learning-Projects:--
 These are the List of 50 Machine Learning Projects topics along with the name of Algorithms required for the creation of the Model 
 
 # A. Regression Projects (1–10):
