@@ -73,3 +73,6 @@ These are the List of 50 Machine Learning Projects topics along with the name of
 48. Stock Price Trend Prediction
 49. Weather Forecasting
 50. Daily Temperature Prediction
+
+## 👨‍💻 Contributors
+- [@ash-iiiiish](https://github.com/ash-iiiiish)
