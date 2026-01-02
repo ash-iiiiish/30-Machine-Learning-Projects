@@ -1,5 +1,4 @@
-# Machine-Learning-Projects:-
-
+# 28-Machine-Learning-Projects:--
 These are the List of 50 Machine Learning Projects topics along with the name of Algorithms required for the creation of the Model 
 
 # A. Regression Projects (1–10):
@@ -14,7 +13,6 @@ These are the List of 50 Machine Learning Projects topics along with the name of
 9. Gold Price Prediction
 10. Sales Forecasting
 
-  
 
 # B. Classification Projects (11–22)
 11. Iris Flower Classification
@@ -75,3 +73,6 @@ These are the List of 50 Machine Learning Projects topics along with the name of
 48. Stock Price Trend Prediction
 49. Weather Forecasting
 50. Daily Temperature Prediction
+
+## 👨‍💻 Contributors
+- [@ash-iiiiish](https://github.com/ash-iiiiish)
