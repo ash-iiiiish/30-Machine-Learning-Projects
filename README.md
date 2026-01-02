@@ -1,7 +1,6 @@
 # 🚀 30 Machine Learning Projects – From Beginner to Advanced
 
 A curated collection of **30 end-to-end Machine Learning projects** covering **Regression, Classification, Clustering, NLP, Time Series, and Ensemble methods**.  
-Each project is well-structured and ideal for **learning, practice, interviews, and portfolio building**.
 
 ---
 
