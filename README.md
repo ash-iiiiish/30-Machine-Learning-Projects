@@ -3,6 +3,15 @@
 A curated collection of **30 end-to-end Machine Learning projects** covering **Regression, Classification, Clustering, NLP, Time Series, and Ensemble methods**.  
 
 ---
+<p align="center">
+  <img src="datasets/intro.png" width="45%" />
+  <img src="datasets/img1.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="datasets/img2.png" width="45%" />
+  <img src="datasets/img3.png" width="45%" />
+</p>
 
 ## 📌 Table of Contents
 
