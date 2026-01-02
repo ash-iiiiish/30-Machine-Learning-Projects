@@ -46,13 +46,11 @@ This repository contains **30 practical ML projects** designed to help you:
 
 ## 📊 Projects List
 
-> Replace `ash-iiiiish` and `30-Machine-Learning-Projects` with your actual GitHub details.
-
 ### 🔢 Regression Projects
 
 | # | Project Name | Link |
 |---|-------------|------|
-| 1 | House Price Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/1.House%20Price%20Prediction |
+| 1 | House Price Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/tree/main/A-Regression%20Projects(1-7)/1.House%20Price%20Prediction) |
 | 2 | Car Price Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/2.Car%20Price%20Prediction |
 | 3 | Student Score Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/3.Student%20Score%20Prediction |
 | 4 | Salary Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/4.Salary%20Prediction |
