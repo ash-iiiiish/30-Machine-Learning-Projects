@@ -5,7 +5,7 @@ A curated collection of **30 end-to-end Machine Learning projects** covering **R
 ---
 <p align="center">
   <img src="images/intro.png" width="45%" />
-  <img src="images/img1.png" width="45%" />
+  <img src="images/img1.png" width="45%" height="60%"/>
 </p>
 
 <p align="center">
