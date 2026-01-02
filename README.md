@@ -58,6 +58,41 @@ This repository contains **30 practical ML projects** designed to help you:
 | 6 | Gold Price Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/6.Gold%20Price%20Prediction |
 | 7 | Medical Insurance Cost Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/7.Medical%20Insurance%20Cost%20Prediction |
 
+## 📌 List of Projects
+
+| S.No | Project Name | Link |
+|-----|-------------|------|
+| 1 | House Price Prediction | click here |
+| 2 | Student Score Prediction | click here |
+| 3 | Medical Insurance Cost Prediction | click here |
+| 4 | Gold Price Prediction | click here |
+| 5 | Sales Forecasting | click here |
+| 6 | Car Price Prediction | click here |
+| 7 | Salary Prediction | click here |
+| 8 | Iris Flower Classification | click here |
+| 9 | Titanic Survival Prediction | click here |
+| 10 | Breast Cancer Detection | click here |
+| 11 | Diabetes Prediction | click here |
+| 12 | Loan Approval Prediction | click here |
+| 13 | Customer Churn Prediction | click here |
+| 14 | Spam Email Detection | click here |
+| 15 | Heart Disease Prediction | click here |
+| 16 | Customer Segmentation | click here |
+| 17 | Mall Customer Segmentation | click here |
+| 18 | Market Basket Analysis | click here |
+| 19 | Movie Recommendation System | click here |
+| 20 | Product Recommendation System | click here |
+| 21 | Sentiment Analysis | click here |
+| 22 | Fake News Detection | click here |
+| 23 | Resume Classification | click here |
+| 24 | News Text Classification | click here |
+| 25 | Daily Temperature Prediction | click here |
+| 26 | Weather Forecasting | click here |
+| 27 | Stock Price Trend Prediction | click here |
+| 28 | Face Recognition System | click here |
+| 29 | Image Classification | click here |
+| 30 | Object Detection | click here |
+
 ---
 
 ## 🛠 Technologies Used
@@ -100,58 +135,3 @@ pip install -r requirements.txt
 
 ## 🤝 Contributing
 Contributions are welcome! Fork this repository and submit a pull request.
-
-# 28-Machine-Learning-Projects:--
-These are the List of 50 Machine Learning Projects topics along with the name of Algorithms required for the creation of the Model 
-
-# A. Regression Projects (1–7):
-1. House Price Prediction
-2. Car Price Prediction
-3. Student Score Prediction
-4. Salary Prediction
-5. Sales Forecasting
-6. Gold Price Prediction
-7. Medical Insurance Cost Prediction
-
-
-# B. Classification Projects (8-13)
-8. Breast Cancer Detection
-9. Email Spam Detection
-10. Diabetes Prediction
-11. Customer Churn Prediction
-12. Iris Flower Classification
-13. Titanic Survival Prediction
-
-# C. Clustering Projects (14-16)
-14. Customer Segmentation
-15. Mall Customers Segmentation
-16. Spotify Songs Clustering
-
-
-# D. Association Rule Mining (17-18)
-17. Market Basket Analysis (Apriori)
-18. Movie Pair Recommendation
-
-
-# E. Ensemble Methods (19-23)
-19. Customer Churn Ensemble Model
-20. House Price Ensemble Model
-21. Voting Classifier on Iris Dataset
-22. Spam Detection Using Ensembles
-23. Fraud Detection Using Ensembles
-
-
-# F. Natural Language Processing (24-27)
-24. Sentiment Analysis
-25. Fake News Detection
-26. Resume Classification
-27. Text Classification (News Dataset)
-
-
-# G. Time Series (28-30)
-28. Daily Temperature Prediction
-29. Weather Forecasting
-30. Stock Price Trend Prediction
-
-## 👨‍💻 Contributors
-- [@ash-iiiiish](https://github.com/ash-iiiiish)
