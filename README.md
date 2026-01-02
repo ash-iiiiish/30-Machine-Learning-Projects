@@ -46,52 +46,38 @@ This repository contains **30 practical ML projects** designed to help you:
 
 ## 📊 Projects List
 
-### 🔢 Regression Projects
-
-| # | Project Name | Link |
-|---|-------------|------|
-| 1 | House Price Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/tree/main/A-Regression%20Projects(1-7)/1.House%20Price%20Prediction) |
-| 2 | Car Price Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/2.Car%20Price%20Prediction |
-| 3 | Student Score Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/3.Student%20Score%20Prediction |
-| 4 | Salary Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/4.Salary%20Prediction |
-| 5 | Sales Forecasting | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/5.Sales%20Forecasting |
-| 6 | Gold Price Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/6.Gold%20Price%20Prediction |
-| 7 | Medical Insurance Cost Prediction | https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME/tree/main/A-Regression%20Projects(1-7)/7.Medical%20Insurance%20Cost%20Prediction |
-
-## 📌 List of Projects
-
 | S.No | Project Name | Link |
 |-----|-------------|------|
-| 1 | House Price Prediction | click here |
-| 2 | Student Score Prediction | click here |
-| 3 | Medical Insurance Cost Prediction | click here |
-| 4 | Gold Price Prediction | click here |
-| 5 | Sales Forecasting | click here |
-| 6 | Car Price Prediction | click here |
-| 7 | Salary Prediction | click here |
-| 8 | Iris Flower Classification | click here |
-| 9 | Titanic Survival Prediction | click here |
-| 10 | Breast Cancer Detection | click here |
-| 11 | Diabetes Prediction | click here |
-| 12 | Loan Approval Prediction | click here |
-| 13 | Customer Churn Prediction | click here |
-| 14 | Spam Email Detection | click here |
-| 15 | Heart Disease Prediction | click here |
-| 16 | Customer Segmentation | click here |
-| 17 | Mall Customer Segmentation | click here |
-| 18 | Market Basket Analysis | click here |
-| 19 | Movie Recommendation System | click here |
-| 20 | Product Recommendation System | click here |
-| 21 | Sentiment Analysis | click here |
-| 22 | Fake News Detection | click here |
-| 23 | Resume Classification | click here |
-| 24 | News Text Classification | click here |
-| 25 | Daily Temperature Prediction | click here |
-| 26 | Weather Forecasting | click here |
-| 27 | Stock Price Trend Prediction | click here |
-| 28 | Face Recognition System | click here |
-| 29 | Image Classification | click here |
-| 30 | Object Detection | click here |
+| 1 | House Price Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/1.House%20Price%20Prediction/house%20price%20prediction.ipynb) |
+| 2 | Car Price Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/2.Car%20Price%20Prediction/car%20price%20prediction.ipynb) |
+| 3 | Student Score Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/3.Student%20Score%20Prediction/student%20score%20prediction.ipynb) |
+| 4 | Salary Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/4.Salary%20Prediction/salary%20prediction.ipynb) |
+| 5 | Sales Forecasting | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/5.Sales%20Forecasting/sales%20forecasting.ipynb) |
+| 6 | Gold Price Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/6.Gold%20Price%20Prediction/gold%20price%20prediction.ipynb) |
+| 7 | Medical Insurance Cost Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/A-Regression%20Projects(1-7)/7.Medical%20Insurance%20Cost%20Prediction/medical%20insurance%20cost%20prediction.ipynb) |
+| 8 | Breast Cancer Detection | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/B-%20Classification%20Projects(8-13)/8.Breast%20Cancer%20Detection/breast%20cancer%20detection.ipynb) |
+| 9 | Email Spam Detection | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/B-%20Classification%20Projects(8-13)/9.Email%20Spam%20Detection/email%20spam%20detection.ipynb) |
+| 10 | Diabetes Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/B-%20Classification%20Projects(8-13)/10.Diabetes%20Prediction/diabetes%20prediction.ipynb) |
+| 11 | Custoer Churm Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/B-%20Classification%20Projects(8-13)/11.Customer%20Churm%20Prediction/customer%20churm%20prediction.ipynb) |
+| 12 | Iris Flower Classification | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/B-%20Classification%20Projects(8-13)/12.Iris%20Flower%20Classification/iris%20flower%20classification.ipynb) |
+| 13 | Titanic Survival Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/B-%20Classification%20Projects(8-13)/13.TItanic%20Survival%20Prediction/titanic%20survival%20prediction.ipynb) |
+| 14 | Customer Segmentation | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/C-Clustering%20Projects(14-16)/14.Customer%20Segmentation/customer%20segmentation.ipynb) |
+| 15 | Mall Customers Segmentation | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/C-Clustering%20Projects(14-16)/15.Mall%20Customers%20Segmentation/mall%20customer%20segmentation.ipynb) |
+| 16 | Spotify Songs Clustering | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/C-Clustering%20Projects(14-16)/16.Spotify%20Songs%20Clustering/Spotify%20Songs%20Clustering.ipynb) |
+| 17 | Market Basket Analysis(Apriori) | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/D-Association%20Rule%20Mining(17-18)/17.Market%20Basket%20Analysis(Apriori)/market%20basket%20analysis.ipynb) |
+| 18 | Movie Pair Recommendation | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/D-Association%20Rule%20Mining(17-18)/18.Movie%20Pair%20Recommendation/movie%20pair%20recommendation.ipynb) |
+| 19 | Customer Churm Ensemble Model | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/E-Ensemble%20Methods(19-23)/19.Customer%20Churn%20Ensemble%20Model/customer%20churn%20ensemble.ipynb) |
+| 20 | House Price Ensemble Model | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/E-Ensemble%20Methods(19-23)/20.House%20Price%20Ensemble%20Model/house%20price%20ensemble.ipynb) |
+| 21 | Voting Classifier on Iris Dataset | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/E-Ensemble%20Methods(19-23)/21.Voting%20Classifier%20on%20Iris%20Dataset/voting%20classifier%20on%20iris%20dataset.ipynb) |
+| 22 | Spam Detection Using Ensembles | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/E-Ensemble%20Methods(19-23)/22.Spam%20Detection%20Using%20Ensembles/spam%20detection%20using%20ensembles.ipynb) |
+| 23 | Fraud Detection Using Ensembles | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/E-Ensemble%20Methods(19-23)/23.Fraud%20Detection%20Using%20Ensembles/fraud%20detection%20using%20ensembles.ipynb) |
+| 24 | Sentiment Analysis | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/F-Natural%20Language%20Processing(24-27)/24.Sentiment%20Analysis/sentiment%20analysis.ipynb) |
+| 25 | Fake News Detection | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/F-Natural%20Language%20Processing(24-27)/25.Fake%20News%20Detection/fake%20news%20detection.ipynb) |
+| 26 | Resume Classification | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/F-Natural%20Language%20Processing(24-27)/26.Resume%20Classification/resume%20classification.ipynb) |
+| 27 | Text Classification(News_Dataset) | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/F-Natural%20Language%20Processing(24-27)/27.Text%20Classification(News_Dataset)/text%20classification%20on%20news%20dataset.ipynb) |
+| 28 | Daily Temperature Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/G-Time_Series(28-30)/28.Daily%20Temperature%20Prediction/daily%20temperature%20prediction.ipynb) |
+| 29 | Weather Forecasting | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/G-Time_Series(28-30)/29.Weather%20Forecasting/weather%20forecasting.ipynb) |
+| 30 | Stock Price Trend Prediction | [click here](https://github.com/ash-iiiiish/30-Machine-Learning-Projects/blob/main/G-Time_Series(28-30)/30.Stock%20Price%20Trend%20Prediction/stock%20price%20trend%20prediction.ipynb) |
 
 ---
 
