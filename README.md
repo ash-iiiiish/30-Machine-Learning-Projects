@@ -123,7 +123,6 @@ pip install -r requirements.txt
 
 ---
 
-
 ## 👨‍💻 Contributors
 - [@ash-iiiiish](https://github.com/ash-iiiiish)
 
