@@ -2,7 +2,7 @@
 
 A curated collection of **30 end-to-end Machine Learning projects** covering **Regression, Classification, Clustering, NLP, Time Series, and Ensemble methods**.  
 
----
+----
 <p align="center">
   <img src="images/intro.png" width="45%" />
   <img src="images/img2.png" width="45%"  />
