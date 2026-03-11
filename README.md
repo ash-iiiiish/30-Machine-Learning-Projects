@@ -1,4 +1,4 @@
-# 🚀 30 Machine Learning Projects – From Beginner to Advanced:s
+# 🚀 30 Machine Learning Projects – From Beginner to Advanced:sshj
 
 A curated collection of **30 end-to-end Machine Learning projects** covering **Regression, Classification, Clustering, NLP, Time Series, and Ensemble methods**.  
 
